@@ -1,0 +1,41 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
+146.56.113.238,443,443,true,SIN,Asia Pacific,SG,Singapore,242,6.96
+141.144.203.186,443,443,true,FRA,Europe,DE,Frankfurt,242,4.16
+192.3.155.217,443,443,true,BUF,North America,US,Buffalo,227,3.32
+49.51.231.125,443,443,true,SJC,North America,US,San Jose,164,2.82
+141.148.241.214,443,443,true,FRA,Europe,DE,Frankfurt,218,1.70
+91.230.213.70,443,443,true,LHR,Europe,GB,London,304,0.58
+158.101.214.195,443,443,true,FRA,Europe,DE,Frankfurt,215,0.50
+130.162.131.7,443,443,true,LAX,North America,US,Los Angeles,220,0.48
+94.177.8.26,443,443,true,VIE,Europe,AT,Vienna,276,0.48
+46.183.186.57,443,443,true,VIE,Europe,AT,Vienna,258,0.44
+152.70.48.18,443,443,true,FRA,Europe,DE,Frankfurt,208,0.37
+129.159.84.71,443,443,true,IAD,North America,US,Ashburn,270,0.26
+20.240.203.135,443,443,true,ARN,Europe,SE,Stockholm,294,0.26
+45.82.80.92,443,443,true,ARN,Europe,SE,Stockholm,274,0.25
+104.248.128.137,443,443,true,FRA,Europe,DE,Frankfurt,271,0.22
+78.142.230.76,443,443,true,AMS,Europe,NL,Amsterdam,204,0.21
+192.236.249.106,443,443,true,AMS,Europe,NL,Amsterdam,270,0.17
+172.82.16.99,443,443,true,SJC,North America,US,San Jose,292,0.10
+194.58.68.145,443,443,true,AMS,Europe,NL,Amsterdam,225,0.09
+45.129.199.232,443,443,true,TLL,Europe,EE,Tallinn,306,0.08
+45.81.227.122,443,443,true,AMS,Europe,NL,Amsterdam,183,0.08
+2.59.183.25,443,443,true,AMS,Europe,NL,Amsterdam,240,0.05
+3.126.159.12,443,443,true,FRA,Europe,DE,Frankfurt,210,0.05
+124.156.202.172,443,443,true,SIN,Asia Pacific,SG,Singapore,78,0.05
+163.5.207.31,443,443,true,AMS,Europe,NL,Amsterdam,222,0.05
+107.175.134.171,443,443,true,IAD,North America,US,Ashburn,229,0.04
+35.157.240.237,443,443,true,FRA,Europe,DE,Frankfurt,214,0.04
+192.3.203.160,443,443,true,YYZ,North America,CA,Toronto,233,0.03
+66.85.139.204,443,443,true,PHX,North America,US,Phoenix,178,0.03
+2.59.183.77,443,443,true,AMS,Europe,NL,Amsterdam,245,0.03
+18.192.93.64,443,443,true,FRA,Europe,DE,Frankfurt,224,0.03
+192.3.239.197,443,443,true,BUF,North America,US,Buffalo,236,0.03
+172.245.111.20,443,443,true,YYZ,North America,CA,Toronto,235,0.03
+138.3.240.63,443,443,true,FRA,Europe,DE,Frankfurt,264,0.03
+107.173.192.46,443,443,true,BUF,North America,US,Buffalo,253,0.02
+2.56.206.64,443,443,true,EVN,Middle East,AM,Yerevan,313,0.00
+35.189.119.234,443,443,true,LHR,Europe,GB,London,305,0.00
+192.236.249.108,443,443,true,AMS,Europe,NL,Amsterdam,280,0.00
+45.85.93.21,443,443,true,LYS,Europe,FR,Lyon,223,0.00
+43.156.181.203,443,443,true,SIN,Asia Pacific,SG,Singapore,84,0.00
