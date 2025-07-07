@@ -1,68 +1,48 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-185.217.109.162,80,80,false,FRA,Europe,DE,Frankfurt,181,15.42
-34.144.213.11,80,80,false,LAX,North America,US,Los Angeles,146,14.07
-51.120.240.39,80,80,false,CPH,Europe,DK,Copenhagen,250,13.61
-204.110.220.193,80,443,true,SJC,North America,US,San Jose,159,13.36
-204.110.220.121,80,443,true,SJC,North America,US,San Jose,152,12.95
-67.226.221.59,80,443,true,SJC,North America,US,San Jose,134,12.13
-67.226.221.12,80,443,true,SJC,North America,US,San Jose,155,11.77
-54.203.85.46,80,443,true,PDX,North America,US,Portland,177,10.88
-204.110.220.233,80,443,true,SJC,North America,US,San Jose,159,10.40
-67.226.223.189,80,443,true,LHR,Europe,GB,London,200,9.12
-204.110.223.58,80,443,true,CMH,North America,US,Columbus,195,9.08
-67.226.222.23,80,443,true,CMH,North America,US,Columbus,193,9.08
-204.110.223.21,80,443,true,CMH,North America,US,Columbus,196,9.06
-67.226.223.151,80,443,true,LHR,Europe,GB,London,191,8.45
-67.226.223.97,80,443,true,LHR,Europe,GB,London,210,8.27
-67.226.222.112,80,443,true,CMH,North America,US,Columbus,192,8.27
-67.226.223.179,80,443,true,LHR,Europe,GB,London,214,8.03
-204.110.221.177,80,443,true,YUL,North America,CA,Montréal,215,8.02
-204.110.223.35,80,443,true,CMH,North America,US,Columbus,199,8.02
-204.110.221.57,80,443,true,YUL,North America,CA,Montréal,213,8.02
-67.226.222.109,80,443,true,CMH,North America,US,Columbus,195,8.02
-67.226.223.68,80,443,true,LHR,Europe,GB,London,215,8.01
-204.110.223.169,80,443,true,CMH,North America,US,Columbus,191,7.97
-67.226.222.73,80,443,true,CMH,North America,US,Columbus,189,7.88
-204.110.223.84,80,443,true,CMH,North America,US,Columbus,214,7.78
-204.110.223.207,80,443,true,CMH,North America,US,Columbus,202,7.71
-67.226.222.98,80,443,true,CMH,North America,US,Columbus,213,7.55
-107.175.158.215,80,80,false,YYZ,North America,CA,Toronto,200,7.53
-204.110.223.45,80,443,true,CMH,North America,US,Columbus,199,7.50
-67.226.223.85,80,443,true,LHR,Europe,GB,London,212,7.47
-204.110.221.10,80,443,true,YUL,North America,CA,Montréal,234,7.15
-204.110.221.66,80,0,true,YUL,North America,CA,Montréal,256,6.96
-204.110.223.137,80,443,true,CMH,North America,US,Columbus,211,6.90
-67.226.222.102,80,0,true,CMH,North America,US,Columbus,215,6.68
-3.9.223.59,80,443,true,LHR,Europe,GB,London,185,6.43
-67.226.222.189,80,443,true,CMH,North America,US,Columbus,215,5.29
-204.110.220.194,80,443,true,SJC,North America,US,San Jose,181,4.23
-23.94.186.81,80,80,false,ORD,North America,US,Chicago,211,3.73
-13.60.18.115,80,80,false,ARN,Europe,SE,Stockholm,217,2.97
-67.226.223.183,80,443,true,LHR,Europe,GB,London,193,2.31
-67.226.221.16,80,443,true,SJC,North America,US,San Jose,153,1.68
-204.110.223.26,80,443,true,CMH,North America,US,Columbus,215,1.09
-52.10.78.7,80,443,true,PDX,North America,US,Portland,162,1.04
-67.226.222.178,80,443,true,CMH,North America,US,Columbus,212,0.95
-204.110.223.52,80,443,true,CMH,North America,US,Columbus,213,0.42
-67.226.223.22,80,443,true,LHR,Europe,GB,London,220,0.40
-204.110.223.69,80,443,true,CMH,North America,US,Columbus,196,0.31
-204.110.223.213,80,443,true,CMH,North America,US,Columbus,248,0.29
-204.110.220.175,80,443,true,SJC,North America,US,San Jose,177,0.11
-67.226.221.97,80,443,true,SJC,North America,US,San Jose,155,0.10
-67.226.221.186,80,443,true,SJC,North America,US,San Jose,160,0.09
-204.110.221.215,80,443,true,YUL,North America,CA,Montréal,235,0.08
-204.110.221.90,80,443,true,YUL,North America,CA,Montréal,248,0.08
-67.226.223.2,80,443,true,LHR,Europe,GB,London,203,0.08
-67.226.221.1,80,443,true,SJC,North America,US,San Jose,175,0.07
-67.226.221.104,80,443,true,SJC,North America,US,San Jose,156,0.06
-67.226.221.250,80,443,true,SJC,North America,US,San Jose,155,0.05
-67.226.221.236,80,443,true,SJC,North America,US,San Jose,150,0.05
-67.226.221.60,80,443,true,SJC,North America,US,San Jose,151,0.05
-67.226.221.211,80,443,true,SJC,North America,US,San Jose,158,0.04
-204.110.220.188,80,443,true,SJC,North America,US,San Jose,160,0.03
-139.129.25.209,80,80,false,NRT,Asia Pacific,JP,Tokyo,28,0.02
-60.205.0.210,80,80,false,NRT,Asia Pacific,JP,Tokyo,30,0.02
-204.110.221.14,80,443,true,YUL,North America,CA,Montréal,244,0.00
-52.41.218.4,80,443,true,PDX,North America,US,Portland,162,0.00
-204.110.220.125,80,443,true,SJC,North America,US,San Jose,160,0.00
-107.172.46.192,80,80,false,BUF,North America,US,Buffalo,198,0.00
+67.226.221.49,80,443,true,SJC,North America,US,San Jose,153,12.53
+54.176.205.20,80,443,true,SJC,North America,US,San Jose,137,12.10
+204.110.220.174,80,443,true,SJC,North America,US,San Jose,139,12.09
+67.226.221.7,80,443,true,SJC,North America,US,San Jose,144,11.53
+34.149.242.26,80,80,false,LAX,North America,US,Los Angeles,144,11.03
+34.120.39.20,80,80,false,LAX,North America,US,Los Angeles,143,10.55
+52.32.90.142,80,443,true,PDX,North America,US,Portland,176,10.41
+67.226.223.5,80,443,true,LHR,Europe,GB,London,186,10.31
+52.10.78.7,80,443,true,PDX,North America,US,Portland,160,9.77
+67.226.223.205,80,443,true,LHR,Europe,GB,London,187,9.66
+204.110.223.216,80,443,true,CMH,North America,US,Columbus,213,9.08
+204.110.223.143,80,443,true,CMH,North America,US,Columbus,207,9.08
+204.110.223.122,80,443,true,CMH,North America,US,Columbus,218,9.02
+52.41.218.4,80,443,true,PDX,North America,US,Portland,196,8.54
+204.110.223.142,80,443,true,CMH,North America,US,Columbus,219,8.46
+204.110.223.150,80,443,true,CMH,North America,US,Columbus,208,8.28
+67.226.221.167,80,443,true,SJC,North America,US,San Jose,163,8.17
+67.226.223.169,80,443,true,LHR,Europe,GB,London,220,8.09
+67.226.223.70,80,443,true,LHR,Europe,GB,London,212,8.02
+67.226.223.150,80,443,true,LHR,Europe,GB,London,214,7.78
+67.226.222.122,80,443,true,CMH,North America,US,Columbus,218,7.56
+67.226.223.69,80,443,true,LHR,Europe,GB,London,218,7.50
+204.110.220.190,80,443,true,SJC,North America,US,San Jose,161,7.39
+67.226.222.195,80,443,true,CMH,North America,US,Columbus,201,7.04
+67.226.223.105,80,443,true,LHR,Europe,GB,London,217,6.43
+67.226.223.94,80,443,true,LHR,Europe,GB,London,220,6.01
+67.226.222.154,80,443,true,CMH,North America,US,Columbus,202,5.98
+204.110.220.215,80,443,true,SJC,North America,US,San Jose,142,5.60
+192.227.169.115,80,80,false,YYZ,North America,CA,Toronto,202,3.05
+67.226.221.147,80,443,true,SJC,North America,US,San Jose,149,2.68
+204.110.223.91,80,443,true,CMH,North America,US,Columbus,195,2.57
+51.120.240.39,80,80,false,CPH,Europe,DK,Copenhagen,240,1.39
+3.10.245.25,80,443,true,LHR,Europe,GB,London,184,1.36
+204.110.223.1,80,443,true,CMH,North America,US,Columbus,199,1.25
+8.212.27.131,80,80,false,HKG,Asia Pacific,HK,Hong Kong,47,0.69
+107.172.46.192,80,80,false,YYZ,North America,CA,Toronto,201,0.67
+67.226.222.234,80,443,true,CMH,North America,US,Columbus,217,0.19
+3.9.223.59,80,443,true,LHR,Europe,GB,London,192,0.15
+35.182.7.190,80,443,true,YUL,North America,CA,Montréal,268,0.09
+120.55.183.176,80,80,false,IAD,North America,US,Ashburn,14,0.08
+67.226.221.72,80,443,true,SJC,North America,US,San Jose,173,0.07
+67.226.221.234,80,443,true,SJC,North America,US,San Jose,170,0.07
+204.110.220.20,80,443,true,SJC,North America,US,San Jose,151,0.06
+67.226.221.123,80,443,true,SJC,North America,US,San Jose,157,0.05
+204.110.221.214,80,443,true,YUL,North America,CA,Montréal,253,0.05
+204.110.220.27,80,443,true,SJC,North America,US,San Jose,172,0.03
+20.251.169.50,80,80,false,CPH,Europe,DK,Copenhagen,258,0.00
